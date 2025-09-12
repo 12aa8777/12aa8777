@@ -12,7 +12,7 @@ I love documenting my journey and sharing knowledge with the developer community
 My explorations and projects in full-stack development. |
 
 | [python](https://github.com/12aa8777/python) |
-Python scripts and learning notes. |
+Python scripts and  notes. |
 
 | [code-as-i-learn](https://github.com/12aa8777/code-as-i-learn) |
 A log of code and concepts as I learn them. |
