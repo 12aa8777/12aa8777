@@ -8,8 +8,6 @@ I love documenting my journey and sharing knowledge with the developer community
 
 🛠️ Top Repositories
 
-| Repository | Description |
-|------------|-------------|
 | [full-stack-journey](https://github.com/12aa8777/full-stack-journey) |
 My explorations and projects in full-stack development. |
 
