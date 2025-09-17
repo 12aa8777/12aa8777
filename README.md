@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F7B32B&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B;I+am+Dheeraj+Kumar+Yadav;Welcome+to+my+GitHub+profile!+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F7B32B&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B;I+am+Dheeraj+Kumar+Yadav;Welcome+to+my+GitHub+profile!"/>
 
   <br>
   <img src="https://user-images.githubusercontent.com/58307544/236678679-65bbbeab-0933-4a47-b2c0-e5cbd4e2da9f.gif" width="350" alt="colorful developer banner">
@@ -29,7 +29,7 @@ I love documenting my journey and sharing knowledge with the developer community
 
 ### 🛠️ Top Repositories
 
-| <img src="https://skillicons.dev/icons?i=react,nodejs,js,py,css,html" height="30"/> | [full-stack-journey](https://github.com/12aa8777/full-stack-journey)<br><sub>My explorations and projects in full-stack development.</sub> |
+| <img src="https://skillicons.dev/icons?i=react,nodejs,js,py,css,html" height="30"/> | [full-stack-journey](https://github.com/12aa8777/full-stack-journey)<br><sub>My explorations and projects in full stack development.</sub> |
 | --- | --- |
 | <img src="https://skillicons.dev/icons?i=python" height="30"/> | [python](https://github.com/12aa8777/python)<br><sub>Python scripts and notes.</sub> |
 | <img src="https://skillicons.dev/icons?i=js,css,html" height="30"/> | [code-as-i-learn](https://github.com/12aa8777/code-as-i-learn)<br><sub>A log of code and concepts as I learn them.</sub> |
@@ -61,5 +61,18 @@ I love documenting my journey and sharing knowledge with the developer community
   <img src="https://img.shields.io/badge/Open%20Source%20Lover-FF6F61?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Keep%20Learning!-FFD700?style=for-the-badge" />
   <br><br>
+
+</div>
+
+---
+
+## 📊 Profile Trackers
+
+<div align="center">
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=12aa8777&style=for-the-badge)
+![Dheeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=12aa8777&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=12aa8777&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=12aa8777&layout=compact&theme=radical)
 
 </div>
