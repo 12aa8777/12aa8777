@@ -1,42 +1,65 @@
- Hi there 👋
- I'm Dheeraj Kumar Yadav
+<!-- Profile README with Colorful Stickers & Badges -->
 
-Welcome to my GitHub profile!  
-I'm passionate about learning and building in public, growing my skills in full-stack development, Python, and web technologies.
+<div align="center">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F7B32B&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B;I+am+Dheeraj+Kumar+Yadav;Welcome+to+my+GitHub+profile!+%F0%9F%94%A5" alt="Typing SVG" />
+
+  <br>
+  <img src="https://user-images.githubusercontent.com/58307544/236678679-65bbbeab-0933-4a47-b2c0-e5cbd4e2da9f.gif" width="350" alt="colorful developer banner">
+  <br>
+
+  <img src="https://img.shields.io/badge/Full%20Stack-blueviolet?style=for-the-badge&logo=webcomponentsdotorg&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+  <br><br>
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+I'm passionate about learning and building in public, growing my skills in full-stack development, Python, and web technologies.<br>
 I love documenting my journey and sharing knowledge with the developer community.
 
+---
 
-🛠️ Top Repositories
+### 🛠️ Top Repositories
 
-| [full-stack-journey](https://github.com/12aa8777/full-stack-journey) |
-My explorations and projects in full-stack development. |
+| <img src="https://skillicons.dev/icons?i=react,nodejs,js,py,css,html" height="30"/> | [full-stack-journey](https://github.com/12aa8777/full-stack-journey)<br><sub>My explorations and projects in full-stack development.</sub> |
+| --- | --- |
+| <img src="https://skillicons.dev/icons?i=python" height="30"/> | [python](https://github.com/12aa8777/python)<br><sub>Python scripts and notes.</sub> |
+| <img src="https://skillicons.dev/icons?i=js,css,html" height="30"/> | [code-as-i-learn](https://github.com/12aa8777/code-as-i-learn)<br><sub>A log of code and concepts as I learn them.</sub> |
+| <img src="https://skillicons.dev/icons?i=css" height="30"/> | [css_course](https://github.com/12aa8777/css_course)<br><sub>CSS demonstrations, exercises, and experiments.</sub> |
+| <img src="https://skillicons.dev/icons?i=github" height="30"/> | [developer-roadmap](https://github.com/12aa8777/developer-roadmap)<br><sub>My personal roadmap to becoming a better developer.</sub> |
 
-| [python](https://github.com/12aa8777/python) |
-Python scripts and  notes. |
+---
 
-| [code-as-i-learn](https://github.com/12aa8777/code-as-i-learn) |
-A log of code and concepts as I learn them. |
+### 💡 What I’m Working On
 
-| [css_course](https://github.com/12aa8777/css_course) | 
-CSS demonstrations, exercises, and experiments. |
+- 🚀 Building web applications using modern JavaScript frameworks.
+- 🐍 Deepening my understanding of Python and data structures.
+- 🎨 Mastering CSS for beautiful, responsive web design.
 
-| [developer-roadmap](https://github.com/12aa8777/developer-roadmap) |
-My personal roadmap to becoming a better developer. |
+---
 
+### 📫 How to Reach Me
 
+- ✉️ Email: dheerajyadav30309@gmail.com
 
- 💡 What I’m Working On
+---
 
- Building web applications using modern JavaScript frameworks.
- Deepening my understanding of Python and data structures.
- Mastering CSS for beautiful, responsive web design.
+<div align="center">
 
-📫 How to Reach Me
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200"/>
 
- Email: dheerajyadav30309@gmail.com
+  <br>
+  <img src="https://img.shields.io/badge/Let's%20Connect!-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Lover-FF6F61?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Keep%20Learning!-FFD700?style=for-the-badge" />
+  <br><br>
 
-
-
-
-
-
+</div>
