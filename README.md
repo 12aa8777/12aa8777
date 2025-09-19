@@ -66,6 +66,12 @@ I love documenting my journey and sharing knowledge with the developer community
 
 ---
 
+## Most Used Languages (Public Repos)
+
+![Most Used Languages](./metrics.languages.svg)
+
+---
+
 ## 📊 Profile Trackers
 
 <div align="center">
